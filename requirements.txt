@@ -1,0 +1,14 @@
+tensorflow
+streamlit
+opencv-python-headless
+pillow
+numpy
+pandas
+matplotlib
+mahotas
+seaborn
+scikit-learn
+xgboost
+joblib
+gdown
+

@@ -11,5 +11,3 @@ scikit-learn
 xgboost
 joblib
 gdown
-cv2
-
